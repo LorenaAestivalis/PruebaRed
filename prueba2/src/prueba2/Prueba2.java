@@ -7,7 +7,7 @@ package prueba2;
 
 /**
  *
- * @author torre
+ * @author Lorena Barrios
  */
 public class Prueba2 {
 
