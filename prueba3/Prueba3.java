@@ -7,7 +7,7 @@ package prueba3;
 
 /**
  *
- * @author torre
+ * @author Lorena Barrios
  */
 /*
  * To change this license header, choose License Headers in Project Properties.
