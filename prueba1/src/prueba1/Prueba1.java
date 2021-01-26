@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author torre
+ * @author Lorena Barrios
  */
 public class Prueba1 {
 /** en el arreglo alfabeto por cada elemento correspode el valor conforme su indice, es decir,
